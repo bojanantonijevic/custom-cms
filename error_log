@@ -1,0 +1,54 @@
+[31-Dec-2018 00:02:16 UTC] PHP Notice:  Undefined variable: user_id in /home/bojanantonijevic/public_html/customcms/post.php on line 329
+[31-Dec-2018 00:02:21 UTC] PHP Notice:  Undefined variable: user_id in /home/bojanantonijevic/public_html/customcms/post.php on line 329
+[31-Dec-2018 00:02:28 UTC] PHP Notice:  Undefined variable: user_id in /home/bojanantonijevic/public_html/customcms/post.php on line 329
+[31-Dec-2018 00:02:38 UTC] PHP Notice:  Undefined variable: user_id in /home/bojanantonijevic/public_html/customcms/post.php on line 329
+[31-Dec-2018 00:02:46 UTC] PHP Notice:  Undefined variable: user_id in /home/bojanantonijevic/public_html/customcms/post.php on line 329
+[31-Dec-2018 00:03:37 UTC] PHP Notice:  Undefined variable: user_id in /home/bojanantonijevic/public_html/customcms/post.php on line 329
+[31-Dec-2018 00:03:59 UTC] PHP Notice:  Undefined variable: user_id in /home/bojanantonijevic/public_html/customcms/post.php on line 329
+[31-Dec-2018 00:10:05 UTC] PHP Notice:  Undefined variable: user_id in /home/bojanantonijevic/public_html/customcms/post.php on line 329
+[31-Dec-2018 00:10:29 UTC] PHP Notice:  Undefined variable: user_id in /home/bojanantonijevic/public_html/customcms/post.php on line 329
+[31-Dec-2018 00:12:11 UTC] PHP Notice:  Undefined variable: user_id in /home/bojanantonijevic/public_html/customcms/post.php on line 329
+[31-Dec-2018 00:12:29 UTC] PHP Notice:  Undefined variable: user_id in /home/bojanantonijevic/public_html/customcms/post.php on line 329
+[31-Dec-2018 00:12:34 UTC] PHP Notice:  Undefined variable: user_id in /home/bojanantonijevic/public_html/customcms/post.php on line 329
+[31-Dec-2018 00:17:28 UTC] PHP Notice:  Undefined variable: user_id in /home/bojanantonijevic/public_html/customcms/post.php on line 330
+[31-Dec-2018 00:17:39 UTC] PHP Notice:  Undefined variable: user_id in /home/bojanantonijevic/public_html/customcms/post.php on line 330
+[31-Dec-2018 00:17:44 UTC] PHP Notice:  Undefined variable: user_id in /home/bojanantonijevic/public_html/customcms/post.php on line 330
+[31-Dec-2018 00:18:13 UTC] PHP Notice:  Undefined variable: user_id in /home/bojanantonijevic/public_html/customcms/post.php on line 330
+[31-Dec-2018 00:18:17 UTC] PHP Notice:  Undefined variable: user_id in /home/bojanantonijevic/public_html/customcms/post.php on line 330
+[31-Dec-2018 00:18:38 UTC] PHP Notice:  Undefined variable: user_id in /home/bojanantonijevic/public_html/customcms/post.php on line 330
+[31-Dec-2018 00:19:39 UTC] PHP Notice:  Undefined variable: user_id in /home/bojanantonijevic/public_html/customcms/post.php on line 330
+[31-Dec-2018 00:19:43 UTC] PHP Notice:  Undefined variable: user_id in /home/bojanantonijevic/public_html/customcms/post.php on line 330
+[31-Dec-2018 00:20:28 UTC] PHP Notice:  Undefined variable: user_id in /home/bojanantonijevic/public_html/customcms/post.php on line 330
+[01-Jan-2019 15:23:52 UTC] PHP Notice:  Undefined variable: user_id in /home/bojanantonijevic/public_html/customcms/post.php on line 330
+[01-Jan-2019 15:24:18 UTC] PHP Notice:  Undefined variable: user_id in /home/bojanantonijevic/public_html/customcms/post.php on line 330
+[01-Jan-2019 15:24:21 UTC] PHP Notice:  Undefined variable: user_id in /home/bojanantonijevic/public_html/customcms/post.php on line 330
+[01-Jan-2019 15:24:23 UTC] PHP Notice:  Undefined variable: user_id in /home/bojanantonijevic/public_html/customcms/post.php on line 330
+[02-Jan-2019 14:49:02 UTC] PHP Notice:  Undefined index: username in /home/bojanantonijevic/public_html/customcms/post.php on line 16
+[02-Jan-2019 14:49:02 UTC] PHP Notice:  Undefined variable: user_id in /home/bojanantonijevic/public_html/customcms/post.php on line 345
+[02-Jan-2019 18:53:20 UTC] PHP Parse error:  syntax error, unexpected 'btn' (T_STRING), expecting ',' or ';' in /home/bojanantonijevic/public_html/customcms/admin/functions.php on line 114
+[02-Jan-2019 18:53:25 UTC] PHP Parse error:  syntax error, unexpected 'btn' (T_STRING), expecting ',' or ';' in /home/bojanantonijevic/public_html/customcms/admin/functions.php on line 114
+[03-Jan-2019 03:31:43 UTC] PHP Notice:  Undefined variable: user_id in /home/bojanantonijevic/public_html/customcms/post.php on line 343
+[05-Jan-2019 16:05:00 UTC] PHP Notice:  Undefined index: username in /home/bojanantonijevic/public_html/customcms/category.php on line 26
+[08-Jan-2019 15:07:08 UTC] PHP Fatal error:  Cannot redeclare loggedInUserID() (previously declared in /home/bojanantonijevic/public_html/customcms/admin/functions.php:6) in /home/bojanantonijevic/public_html/customcms/admin/functions.php on line 16
+[08-Jan-2019 15:15:39 UTC] PHP Notice:  Undefined variable: user_id in /home/bojanantonijevic/public_html/customcms/post.php on line 343
+[08-Jan-2019 15:16:08 UTC] PHP Notice:  Undefined variable: user_id in /home/bojanantonijevic/public_html/customcms/post.php on line 343
+[08-Jan-2019 15:17:09 UTC] PHP Notice:  Undefined variable: user_id in /home/bojanantonijevic/public_html/customcms/post.php on line 343
+[08-Jan-2019 15:23:49 UTC] PHP Notice:  Undefined variable: user_id in /home/bojanantonijevic/public_html/customcms/post.php on line 343
+[08-Jan-2019 15:23:59 UTC] PHP Notice:  Undefined variable: user_id in /home/bojanantonijevic/public_html/customcms/post.php on line 343
+[08-Jan-2019 15:24:05 UTC] PHP Notice:  Undefined variable: user_id in /home/bojanantonijevic/public_html/customcms/post.php on line 343
+[08-Jan-2019 15:24:30 UTC] PHP Notice:  Undefined variable: user_id in /home/bojanantonijevic/public_html/customcms/post.php on line 343
+[08-Jan-2019 15:26:00 UTC] PHP Notice:  Undefined variable: user_id in /home/bojanantonijevic/public_html/customcms/post.php on line 343
+[08-Jan-2019 15:26:18 UTC] PHP Notice:  Undefined variable: user_id in /home/bojanantonijevic/public_html/customcms/post.php on line 343
+[08-Jan-2019 15:27:02 UTC] PHP Notice:  Undefined variable: user_id in /home/bojanantonijevic/public_html/customcms/post.php on line 343
+[08-Jan-2019 15:27:07 UTC] PHP Notice:  Undefined variable: user_id in /home/bojanantonijevic/public_html/customcms/post.php on line 343
+[08-Jan-2019 15:27:42 UTC] PHP Notice:  Undefined variable: user_id in /home/bojanantonijevic/public_html/customcms/post.php on line 343
+[08-Jan-2019 15:27:44 UTC] PHP Notice:  Undefined variable: user_id in /home/bojanantonijevic/public_html/customcms/post.php on line 343
+[08-Jan-2019 15:28:35 UTC] PHP Notice:  Undefined variable: user_id in /home/bojanantonijevic/public_html/customcms/post.php on line 343
+[08-Jan-2019 15:29:03 UTC] PHP Notice:  Undefined variable: user_id in /home/bojanantonijevic/public_html/customcms/post.php on line 343
+[08-Jan-2019 15:29:24 UTC] PHP Notice:  Undefined variable: user_id in /home/bojanantonijevic/public_html/customcms/post.php on line 343
+[08-Jan-2019 15:29:38 UTC] PHP Notice:  Undefined variable: user_id in /home/bojanantonijevic/public_html/customcms/post.php on line 343
+[08-Jan-2019 15:30:22 UTC] PHP Notice:  Undefined variable: user_id in /home/bojanantonijevic/public_html/customcms/post.php on line 343
+[08-Jan-2019 15:36:39 UTC] PHP Notice:  Undefined variable: user_id in /home/bojanantonijevic/public_html/customcms/post.php on line 343
+[08-Jan-2019 16:47:52 UTC] PHP Notice:  Undefined index: username in /home/bojanantonijevic/public_html/customcms/post.php on line 17
+[08-Jan-2019 16:52:45 UTC] PHP Notice:  Undefined index: username in /home/bojanantonijevic/public_html/customcms/post.php on line 17
+[08-Jan-2019 18:34:30 UTC] PHP Fatal error:  Cannot redeclare loggedInUserID() (previously declared in /home/bojanantonijevic/public_html/customcms/admin/functions.php:6) in /home/bojanantonijevic/public_html/customcms/admin/functions.php on line 16

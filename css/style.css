@@ -1,0 +1,16 @@
+.pager li .active_link {
+
+	background: #5b94c5; !important;
+	color: #fff;
+
+}
+
+.pager li {
+	margin: 0 4px;
+}
+.pager li .active_link:hover {
+	/* color: #337ab7; */
+	background: #337ab7;
+}
+
+
